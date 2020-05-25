@@ -1,4 +1,4 @@
-71536936448381
+71536980201381
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -224,6 +224,13 @@ footprints
 2
 2
 footprints
+1u-socket-minimal-flipped
+
+
+0
+2
+2
+footprints
 2u-dual
 
 
@@ -267,13 +274,6 @@ connector-shrouded
 10
 footprints
 diode
-
-
-0
-2
-2
-footprints
-diode-1
 
 
 0
