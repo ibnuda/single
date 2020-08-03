@@ -35,6 +35,7 @@
 
   (setup
     (last_trace_width 0.25)
+    (user_trace_width 0.2)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
     (zone_45_only no)
@@ -182,7 +183,7 @@
     (add_net "Net-(diode9-Pad2)")
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3896)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3896)
     (at 111.5 87)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -190,11 +191,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE388E)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE388E)
     (at 111.5 70.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -202,11 +203,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3887)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3887)
     (at 108.5 54)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -214,11 +215,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE387D)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE387D)
     (at 111.5 120)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -226,11 +227,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3871)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3871)
     (at 108.5 103.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -238,11 +239,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE386A)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE386A)
     (at 108.5 87)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -250,11 +251,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE385D)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE385D)
     (at 108.5 70.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -262,11 +263,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3850)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3850)
     (at 111.5 54)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -274,11 +275,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3849)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3849)
     (at 111.5 103.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -286,11 +287,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3842)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3842)
     (at 108.5 37.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -298,11 +299,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE383B)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE383B)
     (at 111.5 37.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -310,11 +311,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3834)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3834)
     (at 108.5 120)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -322,11 +323,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE37A8)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE37A8)
     (at 88.5 37.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -334,11 +335,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE379F)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE379F)
     (at 91.5 87)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -346,11 +347,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3792)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3792)
     (at 91.5 54)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -358,11 +359,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3788)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3788)
     (at 88.5 54)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -370,11 +371,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3780)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3780)
     (at 91.5 70.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -382,11 +383,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3779)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3779)
     (at 88.5 103.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -394,11 +395,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3770)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3770)
     (at 91.5 37.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -406,11 +407,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3767)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3767)
     (at 88.5 87)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -418,11 +419,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE375B)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE375B)
     (at 91.5 103.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -430,11 +431,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3752)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3752)
     (at 88.5 120)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -442,11 +443,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3747)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3747)
     (at 88.5 70.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -454,11 +455,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3740)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3740)
     (at 91.5 120)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -466,11 +467,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE36B6)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE36B6)
     (at 68.5 37.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -478,11 +479,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE36AE)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE36AE)
     (at 71.5 103.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -490,11 +491,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE369A)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE369A)
     (at 68.5 120)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -502,11 +503,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE368F)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE368F)
     (at 71.5 120)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -514,11 +515,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3688)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3688)
     (at 68.5 70.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -526,11 +527,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3680)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3680)
     (at 71.5 87)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -538,11 +539,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3677)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3677)
     (at 68.5 87)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -550,11 +551,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE366D)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE366D)
     (at 68.5 103.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -562,11 +563,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3666)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3666)
     (at 68.5 54)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -574,11 +575,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE365C)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE365C)
     (at 71.5 70.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -586,11 +587,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3653)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3653)
     (at 71.5 54)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -598,11 +599,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3649)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3649)
     (at 71.5 37.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -610,11 +611,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE362A)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE362A)
     (at 51.5 120)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -622,11 +623,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3620)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3620)
     (at 48.5 120)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -634,11 +635,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE35FE)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE35FE)
     (at 51.5 103.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -646,11 +647,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE35F6)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE35F6)
     (at 48.5 103.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -658,11 +659,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE35D7)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE35D7)
     (at 48.5 87)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -670,11 +671,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE35CF)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE35CF)
     (at 51.5 87)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -682,11 +683,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE35AF)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE35AF)
     (at 48.5 70.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -694,11 +695,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE35A7)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE35A7)
     (at 51.5 70.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -706,11 +707,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE358A)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE358A)
     (at 48.5 54)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -718,11 +719,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE357E)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE357E)
     (at 51.5 54)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -730,11 +731,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3547)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3547)
     (at 51.5 37.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -742,11 +743,11 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-two (layer F.Cu) (tedit 5ECC9E1B) (tstamp 5ECE3545)
+  (module footprints:hole-two (layer F.Cu) (tedit 5F04AE5B) (tstamp 5ECE3545)
     (at 48.5 37.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -754,658 +755,658 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 0 0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0 -0.75) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33F4)
-    (at 73.5 114)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33F4)
+    (at 73.75 114)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33EA)
-    (at 93.5 111)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33EA)
+    (at 93.75 111)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33E4)
-    (at 53.5 111)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33E4)
+    (at 53.75 111)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33DC)
-    (at 113.5 114)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33DC)
+    (at 113.75 114)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33D5)
-    (at 113.5 111)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33D5)
+    (at 113.75 111)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33CD)
-    (at 33.5 111)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33CD)
+    (at 33.75 111)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33C6)
-    (at 33.5 114)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33C6)
+    (at 33.75 114)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33C0)
-    (at 93.5 114)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33C0)
+    (at 93.75 114)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33B7)
-    (at 73.5 111)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33B7)
+    (at 73.75 111)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE33AB)
-    (at 53.5 114)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE33AB)
+    (at 53.75 114)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3344)
-    (at 73.5 97.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3344)
+    (at 73.75 97.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE333B)
-    (at 33.5 94.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE333B)
+    (at 33.75 94.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3331)
-    (at 73.5 94.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3331)
+    (at 73.75 94.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3329)
-    (at 113.5 97.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3329)
+    (at 113.75 97.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE331C)
-    (at 93.5 97.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE331C)
+    (at 93.75 97.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3312)
-    (at 113.5 94.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3312)
+    (at 113.75 94.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE330C)
-    (at 53.5 97.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE330C)
+    (at 53.75 97.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3305)
-    (at 33.5 97.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3305)
+    (at 33.75 97.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE32FD)
-    (at 53.5 94.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE32FD)
+    (at 53.75 94.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE32F2)
-    (at 93.5 94.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE32F2)
+    (at 93.75 94.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3291)
-    (at 73.5 81)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3291)
+    (at 73.75 81)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE328A)
-    (at 113.5 78)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE328A)
+    (at 113.75 78)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3283)
-    (at 33.5 78)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3283)
+    (at 33.75 78)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3274)
-    (at 33.5 81)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3274)
+    (at 33.75 81)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3267)
-    (at 53.5 78)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3267)
+    (at 53.75 78)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE325E)
-    (at 93.5 81)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE325E)
+    (at 93.75 81)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3256)
-    (at 113.5 81)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3256)
+    (at 113.75 81)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE324C)
-    (at 53.5 81)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE324C)
+    (at 53.75 81)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3246)
-    (at 93.5 78)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3246)
+    (at 93.75 78)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE323E)
-    (at 73.5 78)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE323E)
+    (at 73.75 78)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE31D6)
-    (at 33.5 64.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE31D6)
+    (at 33.75 64.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE31CD)
-    (at 53.5 61.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE31CD)
+    (at 53.75 61.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE31C7)
-    (at 113.5 64.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE31C7)
+    (at 113.75 64.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE31C0)
-    (at 113.5 61.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE31C0)
+    (at 113.75 61.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE31B5)
-    (at 33.5 61.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE31B5)
+    (at 33.75 61.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE31A7)
-    (at 73.5 61.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE31A7)
+    (at 73.75 61.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE31A1)
-    (at 53.5 64.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE31A1)
+    (at 53.75 64.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3199)
-    (at 93.5 64.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3199)
+    (at 93.75 64.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3191)
-    (at 93.5 61.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3191)
+    (at 93.75 61.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE318A)
-    (at 73.5 64.5)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE318A)
+    (at 73.75 64.5)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE316D)
-    (at 113.5 48)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE316D)
+    (at 113.75 48)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3166)
-    (at 113.5 45)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3166)
+    (at 113.75 45)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE314A)
-    (at 93.5 45)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE314A)
+    (at 93.75 45)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3142)
-    (at 93.5 48)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3142)
+    (at 93.75 48)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3128)
-    (at 73.5 45)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3128)
+    (at 73.75 45)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE311F)
-    (at 73.5 48)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE311F)
+    (at 73.75 48)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE3105)
-    (at 53.5 48)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE3105)
+    (at 53.75 48)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE30FC)
-    (at 53.5 45)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE30FC)
+    (at 53.75 45)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE2BBF)
-    (at 33.5 48)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE2BBF)
+    (at 33.75 48)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
-  (module footprints:hole-three (layer F.Cu) (tedit 5ECD81AD) (tstamp 5ECE26AE)
-    (at 33.5 45)
+  (module footprints:hole-three (layer F.Cu) (tedit 5F04AD48) (tstamp 5ECE26AE)
+    (at 33.75 45)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (pad "" thru_hole circle (at 2.25 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at 0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
-    (pad "" thru_hole circle (at -0.75 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   )
 
   (module footprints:1u-minimal (layer F.Cu) (tedit 5ECD0466) (tstamp 5ECAF416)
@@ -5734,7 +5735,6 @@
   (segment (start 46.5 99.5) (end 43.405 102.595) (width 0.25) (layer F.Cu) (net 1) (tstamp 5ECDDC71))
   (segment (start 33.5 116) (end 46.5 116) (width 0.25) (layer F.Cu) (net 1) (tstamp 5ECDDC91))
   (segment (start 46.5 116) (end 43.405 119.095) (width 0.25) (layer F.Cu) (net 1) (tstamp 5ECDDC92))
-  (segment (start 33.5 43.5) (end 33.5 50) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 33.5 76.5) (end 33.5 83) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 33.5 93) (end 33.5 99.5) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 33.5 109.5) (end 33.5 116) (width 0.25) (layer F.Cu) (net 1))
@@ -5768,6 +5768,7 @@
   (segment (start 36.25 90.25) (end 33.5 93) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 36.25 85.75) (end 36.25 90.25) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 33.5 83) (end 36.25 85.75) (width 0.25) (layer F.Cu) (net 1))
+  (segment (start 33.5 43.5) (end 33.5 50) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 37.48 42.21) (end 36.19 43.5) (width 0.25) (layer F.Cu) (net 2))
   (segment (start 37.48 35.21) (end 37.48 42.21) (width 0.25) (layer F.Cu) (net 2))
   (segment (start 37.48 51.71) (end 37.48 58.71) (width 0.25) (layer F.Cu) (net 3) (tstamp 5ECDDC21))
