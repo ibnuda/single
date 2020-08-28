@@ -1,8 +1,8 @@
-(module diodesmd (layer F.Cu) (tedit 5A4B862C)
-  (fp_text reference D** (at 0 1.524) (layer F.SilkS)
+(module diodesmd (layer F.Cu) (tedit 5F4789AD)
+  (fp_text reference D** (at 0 1.524) (layer Dwgs.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Diode (at 0 -1) (layer F.Fab)
+  (fp_text value Diode (at 0 -1) (layer Dwgs.User) hide
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
   (fp_line (start -0.8 -0.1) (end -0.8 0.1) (layer F.SilkS) (width 0.5))
