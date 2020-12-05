@@ -33,7 +33,7 @@ F 1 "switch" H 1500 1214 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 1500 1050 60  0001 C CNN
 F 3 "" H 1500 1050 60  0000 C CNN
 	1    1500 1050
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode2
@@ -55,7 +55,7 @@ F 1 "switch" H 1500 1764 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 1500 1600 60  0001 C CNN
 F 3 "" H 1500 1600 60  0000 C CNN
 	1    1500 1600
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode3
@@ -77,7 +77,7 @@ F 1 "switch" H 1500 2364 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 1500 2200 60  0001 C CNN
 F 3 "" H 1500 2200 60  0000 C CNN
 	1    1500 2200
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode4
@@ -99,7 +99,7 @@ F 1 "switch" H 1500 2914 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 1500 2750 60  0001 C CNN
 F 3 "" H 1500 2750 60  0000 C CNN
 	1    1500 2750
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode5
@@ -121,29 +121,7 @@ F 1 "switch" H 1500 3464 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 1500 3300 60  0001 C CNN
 F 3 "" H 1500 3300 60  0000 C CNN
 	1    1500 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L single:diode diode6
-U 1 1 5ECC283F
-P 1200 4000
-F 0 "diode6" H 1072 3950 60  0000 R CNN
-F 1 "diode" V 1350 3950 60  0001 C CNN
-F 2 "footprints:diodesmd" H 1200 4000 60  0001 C CNN
-F 3 "" H 1200 4000 60  0000 C CNN
-	1    1200 4000
 	-1   0    0    1   
-$EndComp
-$Comp
-L single:switch switch6
-U 1 1 5ECC2845
-P 1500 3850
-F 0 "switch6" H 1500 4105 50  0000 C CNN
-F 1 "switch" H 1500 4014 50  0000 C CNN
-F 2 "footprints:1u-socket-minimal-flipped" H 1500 3850 60  0001 C CNN
-F 3 "" H 1500 3850 60  0000 C CNN
-	1    1500 3850
-	1    0    0    -1  
 $EndComp
 $Comp
 L single:diode diode7
@@ -165,7 +143,7 @@ F 1 "switch" H 2300 1214 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 2300 1050 60  0001 C CNN
 F 3 "" H 2300 1050 60  0000 C CNN
 	1    2300 1050
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode8
@@ -187,7 +165,7 @@ F 1 "switch" H 2300 1764 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 2300 1600 60  0001 C CNN
 F 3 "" H 2300 1600 60  0000 C CNN
 	1    2300 1600
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode9
@@ -209,7 +187,7 @@ F 1 "switch" H 2300 2364 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 2300 2200 60  0001 C CNN
 F 3 "" H 2300 2200 60  0000 C CNN
 	1    2300 2200
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode10
@@ -231,7 +209,7 @@ F 1 "switch" H 2300 2914 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 2300 2750 60  0001 C CNN
 F 3 "" H 2300 2750 60  0000 C CNN
 	1    2300 2750
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode11
@@ -253,29 +231,7 @@ F 1 "switch" H 2300 3464 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 2300 3300 60  0001 C CNN
 F 3 "" H 2300 3300 60  0000 C CNN
 	1    2300 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L single:diode diode12
-U 1 1 5ECE276D
-P 2000 4000
-F 0 "diode12" H 1872 3950 60  0000 R CNN
-F 1 "diode" V 2150 3950 60  0001 C CNN
-F 2 "footprints:diodesmd" H 2000 4000 60  0001 C CNN
-F 3 "" H 2000 4000 60  0000 C CNN
-	1    2000 4000
 	-1   0    0    1   
-$EndComp
-$Comp
-L single:switch switch12
-U 1 1 5ECE2773
-P 2300 3850
-F 0 "switch12" H 2300 4105 50  0000 C CNN
-F 1 "switch" H 2300 4014 50  0000 C CNN
-F 2 "footprints:1u-socket-minimal-flipped" H 2300 3850 60  0001 C CNN
-F 3 "" H 2300 3850 60  0000 C CNN
-	1    2300 3850
-	1    0    0    -1  
 $EndComp
 $Comp
 L single:diode diode13
@@ -297,7 +253,7 @@ F 1 "switch" H 3100 1214 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3100 1050 60  0001 C CNN
 F 3 "" H 3100 1050 60  0000 C CNN
 	1    3100 1050
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode14
@@ -319,7 +275,7 @@ F 1 "switch" H 3100 1764 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3100 1600 60  0001 C CNN
 F 3 "" H 3100 1600 60  0000 C CNN
 	1    3100 1600
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode15
@@ -341,7 +297,7 @@ F 1 "switch" H 3100 2364 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3100 2200 60  0001 C CNN
 F 3 "" H 3100 2200 60  0000 C CNN
 	1    3100 2200
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode16
@@ -363,7 +319,7 @@ F 1 "switch" H 3100 2914 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3100 2750 60  0001 C CNN
 F 3 "" H 3100 2750 60  0000 C CNN
 	1    3100 2750
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode17
@@ -385,29 +341,7 @@ F 1 "switch" H 3100 3464 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3100 3300 60  0001 C CNN
 F 3 "" H 3100 3300 60  0000 C CNN
 	1    3100 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L single:diode diode18
-U 1 1 5ECF7FBF
-P 2800 4000
-F 0 "diode18" H 2672 3950 60  0000 R CNN
-F 1 "diode" V 2950 3950 60  0001 C CNN
-F 2 "footprints:diodesmd" H 2800 4000 60  0001 C CNN
-F 3 "" H 2800 4000 60  0000 C CNN
-	1    2800 4000
 	-1   0    0    1   
-$EndComp
-$Comp
-L single:switch switch18
-U 1 1 5ECF7FC5
-P 3100 3850
-F 0 "switch18" H 3100 4105 50  0000 C CNN
-F 1 "switch" H 3100 4014 50  0000 C CNN
-F 2 "footprints:1u-socket-minimal-flipped" H 3100 3850 60  0001 C CNN
-F 3 "" H 3100 3850 60  0000 C CNN
-	1    3100 3850
-	1    0    0    -1  
 $EndComp
 $Comp
 L single:diode diode19
@@ -429,7 +363,7 @@ F 1 "switch" H 3900 1214 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3900 1050 60  0001 C CNN
 F 3 "" H 3900 1050 60  0000 C CNN
 	1    3900 1050
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode20
@@ -451,7 +385,7 @@ F 1 "switch" H 3900 1764 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3900 1600 60  0001 C CNN
 F 3 "" H 3900 1600 60  0000 C CNN
 	1    3900 1600
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode21
@@ -473,7 +407,7 @@ F 1 "switch" H 3900 2364 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3900 2200 60  0001 C CNN
 F 3 "" H 3900 2200 60  0000 C CNN
 	1    3900 2200
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode22
@@ -495,7 +429,7 @@ F 1 "switch" H 3900 2914 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3900 2750 60  0001 C CNN
 F 3 "" H 3900 2750 60  0000 C CNN
 	1    3900 2750
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode23
@@ -517,29 +451,7 @@ F 1 "switch" H 3900 3464 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 3900 3300 60  0001 C CNN
 F 3 "" H 3900 3300 60  0000 C CNN
 	1    3900 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L single:diode diode24
-U 1 1 5ECF8007
-P 3600 4000
-F 0 "diode24" H 3472 3950 60  0000 R CNN
-F 1 "diode" V 3750 3950 60  0001 C CNN
-F 2 "footprints:diodesmd" H 3600 4000 60  0001 C CNN
-F 3 "" H 3600 4000 60  0000 C CNN
-	1    3600 4000
 	-1   0    0    1   
-$EndComp
-$Comp
-L single:switch switch24
-U 1 1 5ECF800D
-P 3900 3850
-F 0 "switch24" H 3900 4105 50  0000 C CNN
-F 1 "switch" H 3900 4014 50  0000 C CNN
-F 2 "footprints:1u-socket-minimal-flipped" H 3900 3850 60  0001 C CNN
-F 3 "" H 3900 3850 60  0000 C CNN
-	1    3900 3850
-	1    0    0    -1  
 $EndComp
 $Comp
 L single:diode diode25
@@ -561,7 +473,7 @@ F 1 "switch" H 4700 1214 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 4700 1050 60  0001 C CNN
 F 3 "" H 4700 1050 60  0000 C CNN
 	1    4700 1050
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode26
@@ -583,7 +495,7 @@ F 1 "switch" H 4700 1764 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 4700 1600 60  0001 C CNN
 F 3 "" H 4700 1600 60  0000 C CNN
 	1    4700 1600
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode27
@@ -605,7 +517,7 @@ F 1 "switch" H 4700 2364 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 4700 2200 60  0001 C CNN
 F 3 "" H 4700 2200 60  0000 C CNN
 	1    4700 2200
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode28
@@ -627,7 +539,7 @@ F 1 "switch" H 4700 2914 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 4700 2750 60  0001 C CNN
 F 3 "" H 4700 2750 60  0000 C CNN
 	1    4700 2750
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L single:diode diode29
@@ -649,29 +561,7 @@ F 1 "switch" H 4700 3464 50  0000 C CNN
 F 2 "footprints:1u-socket-minimal-flipped" H 4700 3300 60  0001 C CNN
 F 3 "" H 4700 3300 60  0000 C CNN
 	1    4700 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L single:diode diode30
-U 1 1 5ED03FD5
-P 4400 4000
-F 0 "diode30" H 4272 3950 60  0000 R CNN
-F 1 "diode" V 4550 3950 60  0001 C CNN
-F 2 "footprints:diodesmd" H 4400 4000 60  0001 C CNN
-F 3 "" H 4400 4000 60  0000 C CNN
-	1    4400 4000
 	-1   0    0    1   
-$EndComp
-$Comp
-L single:switch switch30
-U 1 1 5ED03FDB
-P 4700 3850
-F 0 "switch30" H 4700 4105 50  0000 C CNN
-F 1 "switch" H 4700 4014 50  0000 C CNN
-F 2 "footprints:1u-socket-minimal-flipped" H 4700 3850 60  0001 C CNN
-F 3 "" H 4700 3850 60  0000 C CNN
-	1    4700 3850
-	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1200 1250 2000 1250
@@ -728,87 +618,6 @@ Wire Wire Line
 Connection ~ 3600 3500
 Wire Wire Line
 	3600 3500 4400 3500
-Wire Wire Line
-	1200 4050 2000 4050
-Connection ~ 2000 4050
-Wire Wire Line
-	2000 4050 2800 4050
-Connection ~ 2800 4050
-Wire Wire Line
-	2800 4050 3600 4050
-Connection ~ 3600 4050
-Wire Wire Line
-	3600 4050 4400 4050
-Wire Wire Line
-	1800 1050 1800 1600
-Connection ~ 1800 1600
-Wire Wire Line
-	1800 1600 1800 2200
-Connection ~ 1800 2200
-Wire Wire Line
-	1800 2200 1800 2750
-Connection ~ 1800 2750
-Wire Wire Line
-	1800 2750 1800 3300
-Connection ~ 1800 3300
-Wire Wire Line
-	1800 3300 1800 3850
-Wire Wire Line
-	2600 1050 2600 1600
-Connection ~ 2600 1600
-Wire Wire Line
-	2600 1600 2600 2200
-Connection ~ 2600 2200
-Wire Wire Line
-	2600 2200 2600 2750
-Connection ~ 2600 2750
-Wire Wire Line
-	2600 2750 2600 3300
-Connection ~ 2600 3300
-Wire Wire Line
-	2600 3300 2600 3850
-Wire Wire Line
-	3400 1050 3400 1600
-Connection ~ 3400 1600
-Wire Wire Line
-	3400 1600 3400 2200
-Connection ~ 3400 2200
-Wire Wire Line
-	3400 2200 3400 2750
-Connection ~ 3400 2750
-Wire Wire Line
-	3400 2750 3400 3300
-Connection ~ 3400 3300
-Wire Wire Line
-	3400 3300 3400 3850
-Wire Wire Line
-	4200 1050 4200 1600
-Connection ~ 4200 1600
-Wire Wire Line
-	4200 1600 4200 2200
-Connection ~ 4200 2200
-Wire Wire Line
-	4200 2200 4200 2750
-Connection ~ 4200 2750
-Wire Wire Line
-	4200 2750 4200 3300
-Connection ~ 4200 3300
-Wire Wire Line
-	4200 3300 4200 3850
-Wire Wire Line
-	5000 1050 5000 1600
-Connection ~ 5000 1600
-Wire Wire Line
-	5000 1600 5000 2200
-Connection ~ 5000 2200
-Wire Wire Line
-	5000 2200 5000 2750
-Connection ~ 5000 2750
-Wire Wire Line
-	5000 2750 5000 3300
-Connection ~ 5000 3300
-Wire Wire Line
-	5000 3300 5000 3850
 $Comp
 L Connector_Generic:Conn_01x01 J13
 U 1 1 5F071519
@@ -919,9 +728,6 @@ F 3 "~" H 2000 6100 50  0001 C CNN
 	1    2000 6100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1800 3850 1800 4350
-Connection ~ 1800 3850
 Connection ~ 1800 6100
 Connection ~ 1800 4350
 Wire Wire Line
@@ -1060,8 +866,6 @@ F 3 "~" H 2800 6100 50  0001 C CNN
 	1    2800 6100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2600 3850 2600 4350
 Connection ~ 2600 6100
 Connection ~ 2600 4350
 Wire Wire Line
@@ -1200,8 +1004,6 @@ F 3 "~" H 3600 6100 50  0001 C CNN
 	1    3600 6100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3400 3850 3400 4350
 Connection ~ 3400 6100
 Connection ~ 3400 4350
 Wire Wire Line
@@ -1340,8 +1142,6 @@ F 3 "~" H 4400 6100 50  0001 C CNN
 	1    4400 6100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4200 3850 4200 4350
 Connection ~ 4200 6100
 Connection ~ 4200 4350
 Wire Wire Line
@@ -1480,8 +1280,6 @@ F 3 "~" H 5200 6100 50  0001 C CNN
 	1    5200 6100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5000 3850 5000 4350
 Connection ~ 5000 6100
 Connection ~ 5000 4350
 Wire Wire Line
@@ -1510,10 +1308,6 @@ Wire Wire Line
 Connection ~ 5000 5950
 Wire Wire Line
 	5000 5950 5000 6100
-Connection ~ 2600 3850
-Connection ~ 3400 3850
-Connection ~ 4200 3850
-Connection ~ 5000 3850
 $Comp
 L Connector_Generic:Conn_01x01 J121
 U 1 1 5F0EAE6E
@@ -2144,264 +1938,349 @@ Wire Wire Line
 Connection ~ 4400 2400
 Connection ~ 4400 2950
 Connection ~ 4400 3500
+Wire Wire Line
+	5000 1050 5000 1600
+Connection ~ 5000 1600
+Wire Wire Line
+	4200 1050 4200 1600
+Connection ~ 4200 1600
+Wire Wire Line
+	3400 1050 3400 1600
+Connection ~ 3400 1600
+Wire Wire Line
+	2600 1050 2600 1600
+Connection ~ 2600 1600
+Wire Wire Line
+	1800 1050 1800 1600
+Connection ~ 1800 1600
+Wire Wire Line
+	1800 1600 1800 2200
+Connection ~ 1800 2200
+Wire Wire Line
+	2600 1600 2600 2200
+Connection ~ 2600 2200
+Wire Wire Line
+	3400 1600 3400 2200
+Connection ~ 3400 2200
+Wire Wire Line
+	4200 1600 4200 2200
+Connection ~ 4200 2200
+Wire Wire Line
+	5000 1600 5000 2200
+Connection ~ 5000 2200
+Wire Wire Line
+	5000 2200 5000 2750
+Connection ~ 5000 2750
+Wire Wire Line
+	4200 2200 4200 2750
+Connection ~ 4200 2750
+Wire Wire Line
+	3400 2200 3400 2750
+Connection ~ 3400 2750
+Wire Wire Line
+	2600 2200 2600 2750
+Connection ~ 2600 2750
+Wire Wire Line
+	1800 2200 1800 2750
+Connection ~ 1800 2750
+Wire Wire Line
+	1800 2750 1800 3300
+Connection ~ 1800 3300
+Wire Wire Line
+	2600 2750 2600 3300
+Connection ~ 2600 3300
+Wire Wire Line
+	3400 2750 3400 3300
+Connection ~ 3400 3300
+Wire Wire Line
+	4200 2750 4200 3300
+Connection ~ 4200 3300
+Wire Wire Line
+	5000 2750 5000 3300
+Connection ~ 5000 3300
 $Comp
-L Connector_Generic:Conn_01x01 J23
-U 1 1 5F1A0A03
-P 2000 6350
-F 0 "J23" H 1918 6125 50  0000 C CNN
-F 1 "Conn_01x01" H 1918 6216 50  0000 C CNN
-F 2 "footprints:wirepad" H 2000 6350 50  0001 C CNN
-F 3 "~" H 2000 6350 50  0001 C CNN
-	1    2000 6350
-	1    0    0    -1  
+L Connector_Generic:Conn_01x01 J1
+U 1 1 5FC81768
+P 1600 4500
+F 0 "J1" H 1518 4275 50  0000 C CNN
+F 1 "Conn_01x01" H 1518 4366 50  0000 C CNN
+F 2 "footprints:wirepad" H 1600 4500 50  0001 C CNN
+F 3 "~" H 1600 4500 50  0001 C CNN
+	1    1600 4500
+	-1   0    0    1   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x01 J24
-U 1 1 5F1A0A09
-P 2000 6500
-F 0 "J24" H 1918 6275 50  0000 C CNN
-F 1 "Conn_01x01" H 1918 6366 50  0000 C CNN
-F 2 "footprints:wirepad" H 2000 6500 50  0001 C CNN
-F 3 "~" H 2000 6500 50  0001 C CNN
-	1    2000 6500
-	1    0    0    -1  
+L Connector_Generic:Conn_01x01 J6
+U 1 1 5FC822BE
+P 1600 4900
+F 0 "J6" H 1518 4675 50  0000 C CNN
+F 1 "Conn_01x01" H 1518 4766 50  0000 C CNN
+F 2 "footprints:wirepad" H 1600 4900 50  0001 C CNN
+F 3 "~" H 1600 4900 50  0001 C CNN
+	1    1600 4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J11
+U 1 1 5FC91B69
+P 1600 5300
+F 0 "J11" H 1518 5075 50  0000 C CNN
+F 1 "Conn_01x01" H 1518 5166 50  0000 C CNN
+F 2 "footprints:wirepad" H 1600 5300 50  0001 C CNN
+F 3 "~" H 1600 5300 50  0001 C CNN
+	1    1600 5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J28
+U 1 1 5FC92447
+P 1600 5700
+F 0 "J28" H 1518 5475 50  0000 C CNN
+F 1 "Conn_01x01" H 1518 5566 50  0000 C CNN
+F 2 "footprints:wirepad" H 1600 5700 50  0001 C CNN
+F 3 "~" H 1600 5700 50  0001 C CNN
+	1    1600 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J33
+U 1 1 5FCABD94
+P 1600 6100
+F 0 "J33" H 1518 5875 50  0000 C CNN
+F 1 "Conn_01x01" H 1518 5966 50  0000 C CNN
+F 2 "footprints:wirepad" H 1600 6100 50  0001 C CNN
+F 3 "~" H 1600 6100 50  0001 C CNN
+	1    1600 6100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 5FCC46B3
+P 2400 4500
+F 0 "J2" H 2318 4275 50  0000 C CNN
+F 1 "Conn_01x01" H 2318 4366 50  0000 C CNN
+F 2 "footprints:wirepad" H 2400 4500 50  0001 C CNN
+F 3 "~" H 2400 4500 50  0001 C CNN
+	1    2400 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J7
+U 1 1 5FCC4D55
+P 2400 4900
+F 0 "J7" H 2318 4675 50  0000 C CNN
+F 1 "Conn_01x01" H 2318 4766 50  0000 C CNN
+F 2 "footprints:wirepad" H 2400 4900 50  0001 C CNN
+F 3 "~" H 2400 4900 50  0001 C CNN
+	1    2400 4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J12
+U 1 1 5FCC4D5F
+P 2400 5300
+F 0 "J12" H 2318 5075 50  0000 C CNN
+F 1 "Conn_01x01" H 2318 5166 50  0000 C CNN
+F 2 "footprints:wirepad" H 2400 5300 50  0001 C CNN
+F 3 "~" H 2400 5300 50  0001 C CNN
+	1    2400 5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J29
+U 1 1 5FCC4D69
+P 2400 5700
+F 0 "J29" H 2318 5475 50  0000 C CNN
+F 1 "Conn_01x01" H 2318 5566 50  0000 C CNN
+F 2 "footprints:wirepad" H 2400 5700 50  0001 C CNN
+F 3 "~" H 2400 5700 50  0001 C CNN
+	1    2400 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J34
+U 1 1 5FCC4D73
+P 2400 6100
+F 0 "J34" H 2318 5875 50  0000 C CNN
+F 1 "Conn_01x01" H 2318 5966 50  0000 C CNN
+F 2 "footprints:wirepad" H 2400 6100 50  0001 C CNN
+F 3 "~" H 2400 6100 50  0001 C CNN
+	1    2400 6100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J3
+U 1 1 5FCE928C
+P 3200 4500
+F 0 "J3" H 3118 4275 50  0000 C CNN
+F 1 "Conn_01x01" H 3118 4366 50  0000 C CNN
+F 2 "footprints:wirepad" H 3200 4500 50  0001 C CNN
+F 3 "~" H 3200 4500 50  0001 C CNN
+	1    3200 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J8
+U 1 1 5FCE9902
+P 3200 4900
+F 0 "J8" H 3118 4675 50  0000 C CNN
+F 1 "Conn_01x01" H 3118 4766 50  0000 C CNN
+F 2 "footprints:wirepad" H 3200 4900 50  0001 C CNN
+F 3 "~" H 3200 4900 50  0001 C CNN
+	1    3200 4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J25
+U 1 1 5FCE990C
+P 3200 5300
+F 0 "J25" H 3118 5075 50  0000 C CNN
+F 1 "Conn_01x01" H 3118 5166 50  0000 C CNN
+F 2 "footprints:wirepad" H 3200 5300 50  0001 C CNN
+F 3 "~" H 3200 5300 50  0001 C CNN
+	1    3200 5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J30
+U 1 1 5FCE9916
+P 3200 5700
+F 0 "J30" H 3118 5475 50  0000 C CNN
+F 1 "Conn_01x01" H 3118 5566 50  0000 C CNN
+F 2 "footprints:wirepad" H 3200 5700 50  0001 C CNN
+F 3 "~" H 3200 5700 50  0001 C CNN
+	1    3200 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J35
+U 1 1 5FCE9920
+P 3200 6100
+F 0 "J35" H 3118 5875 50  0000 C CNN
+F 1 "Conn_01x01" H 3118 5966 50  0000 C CNN
+F 2 "footprints:wirepad" H 3200 6100 50  0001 C CNN
+F 3 "~" H 3200 6100 50  0001 C CNN
+	1    3200 6100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J4
+U 1 1 5FD0685D
+P 4000 4500
+F 0 "J4" H 3918 4275 50  0000 C CNN
+F 1 "Conn_01x01" H 3918 4366 50  0000 C CNN
+F 2 "footprints:wirepad" H 4000 4500 50  0001 C CNN
+F 3 "~" H 4000 4500 50  0001 C CNN
+	1    4000 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J9
+U 1 1 5FD070AF
+P 4000 4900
+F 0 "J9" H 3918 4675 50  0000 C CNN
+F 1 "Conn_01x01" H 3918 4766 50  0000 C CNN
+F 2 "footprints:wirepad" H 4000 4900 50  0001 C CNN
+F 3 "~" H 4000 4900 50  0001 C CNN
+	1    4000 4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J26
+U 1 1 5FD070B9
+P 4000 5300
+F 0 "J26" H 3918 5075 50  0000 C CNN
+F 1 "Conn_01x01" H 3918 5166 50  0000 C CNN
+F 2 "footprints:wirepad" H 4000 5300 50  0001 C CNN
+F 3 "~" H 4000 5300 50  0001 C CNN
+	1    4000 5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J31
+U 1 1 5FD070C3
+P 4000 5700
+F 0 "J31" H 3918 5475 50  0000 C CNN
+F 1 "Conn_01x01" H 3918 5566 50  0000 C CNN
+F 2 "footprints:wirepad" H 4000 5700 50  0001 C CNN
+F 3 "~" H 4000 5700 50  0001 C CNN
+	1    4000 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J36
+U 1 1 5FD070CD
+P 4000 6100
+F 0 "J36" H 3918 5875 50  0000 C CNN
+F 1 "Conn_01x01" H 3918 5966 50  0000 C CNN
+F 2 "footprints:wirepad" H 4000 6100 50  0001 C CNN
+F 3 "~" H 4000 6100 50  0001 C CNN
+	1    4000 6100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J5
+U 1 1 5FD28478
+P 4800 4500
+F 0 "J5" H 4718 4275 50  0000 C CNN
+F 1 "Conn_01x01" H 4718 4366 50  0000 C CNN
+F 2 "footprints:wirepad" H 4800 4500 50  0001 C CNN
+F 3 "~" H 4800 4500 50  0001 C CNN
+	1    4800 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J10
+U 1 1 5FD28A8E
+P 4800 4900
+F 0 "J10" H 4718 4675 50  0000 C CNN
+F 1 "Conn_01x01" H 4718 4766 50  0000 C CNN
+F 2 "footprints:wirepad" H 4800 4900 50  0001 C CNN
+F 3 "~" H 4800 4900 50  0001 C CNN
+	1    4800 4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J27
+U 1 1 5FD28A98
+P 4800 5300
+F 0 "J27" H 4718 5075 50  0000 C CNN
+F 1 "Conn_01x01" H 4718 5166 50  0000 C CNN
+F 2 "footprints:wirepad" H 4800 5300 50  0001 C CNN
+F 3 "~" H 4800 5300 50  0001 C CNN
+	1    4800 5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J32
+U 1 1 5FD28AA2
+P 4800 5700
+F 0 "J32" H 4718 5475 50  0000 C CNN
+F 1 "Conn_01x01" H 4718 5566 50  0000 C CNN
+F 2 "footprints:wirepad" H 4800 5700 50  0001 C CNN
+F 3 "~" H 4800 5700 50  0001 C CNN
+	1    4800 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J49
+U 1 1 5FD28AAC
+P 4800 6100
+F 0 "J49" H 4718 5875 50  0000 C CNN
+F 1 "Conn_01x01" H 4718 5966 50  0000 C CNN
+F 2 "footprints:wirepad" H 4800 6100 50  0001 C CNN
+F 3 "~" H 4800 6100 50  0001 C CNN
+	1    4800 6100
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	1800 6100 1800 6350
-Connection ~ 1800 6350
+	1800 3300 1800 4350
 Wire Wire Line
-	1800 6350 1800 6500
-$Comp
-L Connector_Generic:Conn_01x01 J47
-U 1 1 5F1A0A1F
-P 2800 6350
-F 0 "J47" H 2718 6125 50  0000 C CNN
-F 1 "Conn_01x01" H 2718 6216 50  0000 C CNN
-F 2 "footprints:wirepad" H 2800 6350 50  0001 C CNN
-F 3 "~" H 2800 6350 50  0001 C CNN
-	1    2800 6350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J48
-U 1 1 5F1A0A25
-P 2800 6500
-F 0 "J48" H 2718 6275 50  0000 C CNN
-F 1 "Conn_01x01" H 2718 6366 50  0000 C CNN
-F 2 "footprints:wirepad" H 2800 6500 50  0001 C CNN
-F 3 "~" H 2800 6500 50  0001 C CNN
-	1    2800 6500
-	1    0    0    -1  
-$EndComp
+	2600 3300 2600 4350
 Wire Wire Line
-	2600 6100 2600 6350
-Connection ~ 2600 6350
+	3400 3300 3400 4350
 Wire Wire Line
-	2600 6350 2600 6500
-$Comp
-L Connector_Generic:Conn_01x01 J71
-U 1 1 5F1A0A3B
-P 3600 6350
-F 0 "J71" H 3518 6125 50  0000 C CNN
-F 1 "Conn_01x01" H 3518 6216 50  0000 C CNN
-F 2 "footprints:wirepad" H 3600 6350 50  0001 C CNN
-F 3 "~" H 3600 6350 50  0001 C CNN
-	1    3600 6350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J72
-U 1 1 5F1A0A41
-P 3600 6500
-F 0 "J72" H 3518 6275 50  0000 C CNN
-F 1 "Conn_01x01" H 3518 6366 50  0000 C CNN
-F 2 "footprints:wirepad" H 3600 6500 50  0001 C CNN
-F 3 "~" H 3600 6500 50  0001 C CNN
-	1    3600 6500
-	1    0    0    -1  
-$EndComp
+	4200 3300 4200 4350
 Wire Wire Line
-	3400 6100 3400 6350
-Connection ~ 3400 6350
-Wire Wire Line
-	3400 6350 3400 6500
-$Comp
-L Connector_Generic:Conn_01x01 J95
-U 1 1 5F1A0A57
-P 4400 6350
-F 0 "J95" H 4318 6125 50  0000 C CNN
-F 1 "Conn_01x01" H 4318 6216 50  0000 C CNN
-F 2 "footprints:wirepad" H 4400 6350 50  0001 C CNN
-F 3 "~" H 4400 6350 50  0001 C CNN
-	1    4400 6350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J96
-U 1 1 5F1A0A5D
-P 4400 6500
-F 0 "J96" H 4318 6275 50  0000 C CNN
-F 1 "Conn_01x01" H 4318 6366 50  0000 C CNN
-F 2 "footprints:wirepad" H 4400 6500 50  0001 C CNN
-F 3 "~" H 4400 6500 50  0001 C CNN
-	1    4400 6500
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4200 6100 4200 6350
-Connection ~ 4200 6350
-Wire Wire Line
-	4200 6350 4200 6500
-$Comp
-L Connector_Generic:Conn_01x01 J119
-U 1 1 5F1A0A73
-P 5200 6350
-F 0 "J119" H 5118 6125 50  0000 C CNN
-F 1 "Conn_01x01" H 5118 6216 50  0000 C CNN
-F 2 "footprints:wirepad" H 5200 6350 50  0001 C CNN
-F 3 "~" H 5200 6350 50  0001 C CNN
-	1    5200 6350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J120
-U 1 1 5F1A0A79
-P 5200 6500
-F 0 "J120" H 5118 6275 50  0000 C CNN
-F 1 "Conn_01x01" H 5118 6366 50  0000 C CNN
-F 2 "footprints:wirepad" H 5200 6500 50  0001 C CNN
-F 3 "~" H 5200 6500 50  0001 C CNN
-	1    5200 6500
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5000 6100 5000 6350
-Connection ~ 5000 6350
-Wire Wire Line
-	5000 6350 5000 6500
-$Comp
-L Connector_Generic:Conn_01x01 J171
-U 1 1 5F214119
-P 6050 3850
-F 0 "J171" V 6014 3762 50  0000 R CNN
-F 1 "Conn_01x01" V 5923 3762 50  0000 R CNN
-F 2 "footprints:wirepad" H 6050 3850 50  0001 C CNN
-F 3 "~" H 6050 3850 50  0001 C CNN
-	1    6050 3850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J172
-U 1 1 5F21411F
-P 6050 4250
-F 0 "J172" V 5922 4330 50  0000 L CNN
-F 1 "Conn_01x01" V 6013 4330 50  0000 L CNN
-F 2 "footprints:wirepad" H 6050 4250 50  0001 C CNN
-F 3 "~" H 6050 4250 50  0001 C CNN
-	1    6050 4250
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J173
-U 1 1 5F214125
-P 6300 3850
-F 0 "J173" V 6264 3762 50  0000 R CNN
-F 1 "Conn_01x01" V 6173 3762 50  0000 R CNN
-F 2 "footprints:wirepad" H 6300 3850 50  0001 C CNN
-F 3 "~" H 6300 3850 50  0001 C CNN
-	1    6300 3850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J174
-U 1 1 5F21412B
-P 6300 4250
-F 0 "J174" V 6172 4330 50  0000 L CNN
-F 1 "Conn_01x01" V 6263 4330 50  0000 L CNN
-F 2 "footprints:wirepad" H 6300 4250 50  0001 C CNN
-F 3 "~" H 6300 4250 50  0001 C CNN
-	1    6300 4250
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J175
-U 1 1 5F214131
-P 6550 3850
-F 0 "J175" V 6514 3762 50  0000 R CNN
-F 1 "Conn_01x01" V 6423 3762 50  0000 R CNN
-F 2 "footprints:wirepad" H 6550 3850 50  0001 C CNN
-F 3 "~" H 6550 3850 50  0001 C CNN
-	1    6550 3850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J176
-U 1 1 5F214137
-P 6550 4250
-F 0 "J176" V 6422 4330 50  0000 L CNN
-F 1 "Conn_01x01" V 6513 4330 50  0000 L CNN
-F 2 "footprints:wirepad" H 6550 4250 50  0001 C CNN
-F 3 "~" H 6550 4250 50  0001 C CNN
-	1    6550 4250
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J177
-U 1 1 5F21413D
-P 6800 3850
-F 0 "J177" V 6764 3762 50  0000 R CNN
-F 1 "Conn_01x01" V 6673 3762 50  0000 R CNN
-F 2 "footprints:wirepad" H 6800 3850 50  0001 C CNN
-F 3 "~" H 6800 3850 50  0001 C CNN
-	1    6800 3850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J178
-U 1 1 5F214143
-P 6800 4250
-F 0 "J178" V 6672 4330 50  0000 L CNN
-F 1 "Conn_01x01" V 6763 4330 50  0000 L CNN
-F 2 "footprints:wirepad" H 6800 4250 50  0001 C CNN
-F 3 "~" H 6800 4250 50  0001 C CNN
-	1    6800 4250
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J179
-U 1 1 5F214149
-P 7050 3850
-F 0 "J179" V 7014 3762 50  0000 R CNN
-F 1 "Conn_01x01" V 6923 3762 50  0000 R CNN
-F 2 "footprints:wirepad" H 7050 3850 50  0001 C CNN
-F 3 "~" H 7050 3850 50  0001 C CNN
-	1    7050 3850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J180
-U 1 1 5F21414F
-P 7050 4250
-F 0 "J180" V 6922 4330 50  0000 L CNN
-F 1 "Conn_01x01" V 7013 4330 50  0000 L CNN
-F 2 "footprints:wirepad" H 7050 4250 50  0001 C CNN
-F 3 "~" H 7050 4250 50  0001 C CNN
-	1    7050 4250
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	4400 4050 6050 4050
-Connection ~ 7050 4050
-Connection ~ 6050 4050
-Wire Wire Line
-	6050 4050 6300 4050
-Connection ~ 6300 4050
-Wire Wire Line
-	6300 4050 6550 4050
-Connection ~ 6550 4050
-Wire Wire Line
-	6550 4050 6800 4050
-Connection ~ 6800 4050
-Wire Wire Line
-	6800 4050 7050 4050
+	5000 3300 5000 4350
 $EndSCHEMATC
