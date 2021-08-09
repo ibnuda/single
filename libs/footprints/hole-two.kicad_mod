@@ -1,10 +1,10 @@
-(module hole-two (layer F.Cu) (tedit 5F04AE5B)
+(module hole-two (layer F.Cu) (tedit 610BDFF2)
   (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
   (fp_text value Val** (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
-  (pad "" thru_hole circle (at 0 -1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
-  (pad "" thru_hole circle (at 0 1.15) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 0 -1.15) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 0 1.15) (size 1 1) (drill 1) (layers *.Cu *.Mask))
 )

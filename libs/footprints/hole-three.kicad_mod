@@ -1,4 +1,4 @@
-(module hole-three (layer F.Cu) (tedit 5F04AD48)
+(module hole-three (layer F.Cu) (tedit 610BEBD8)
   (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
@@ -7,5 +7,5 @@
   )
   (pad "" thru_hole circle (at -1.25 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 0.75 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
-  (pad "" thru_hole circle (at 2 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 2.4 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
 )
