@@ -1,4 +1,4 @@
-3417674962714802
+3417747663817802
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -14140,13 +14140,6 @@ footprints
 4
 2
 footprints
-Kailh_socket_MX_PG1350_EC11_optional
-MX-style keyswitch with support for optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-9
-5
-footprints
 choc-1
 
 
@@ -14167,6 +14160,13 @@ choc-2
 0
 3
 2
+footprints
+choc-v2-100-minimal
+
+
+0
+0
+0
 footprints
 connector-shrouded
 
@@ -14679,13 +14679,6 @@ single
 4
 2
 single
-Kailh_socket_MX_PG1350_EC11_optional
-MX-style keyswitch with support for optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-9
-5
-single
 choc-1
 
 
@@ -14706,6 +14699,13 @@ choc-2
 0
 3
 2
+single
+choc-v2-100-minimal
+
+
+0
+0
+0
 single
 connector-shrouded
 
